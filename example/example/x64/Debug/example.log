@@ -1,6 +1,1 @@
-﻿  add.cpp
-D:\pybind11_learning\example\example\add.cpp(36,42): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-D:\pybind11_learning\example\example\add.cpp(37,40): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-D:\pybind11_learning\example\example\add.cpp(38,46): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-     Creating library D:\pybind11_learning\example\x64\Debug\example.lib and object D:\pybind11_learning\example\x64\Debug\example.exp
-  example.vcxproj -> D:\pybind11_learning\example\x64\Debug\example.pyd
+﻿  example.vcxproj -> D:\pybind11_learning\example\x64\Debug\example.pyd
